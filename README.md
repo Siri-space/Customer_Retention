@@ -7,7 +7,7 @@ Customer retention refers to a company's ability to turn customers into repeat b
 Churn is a measurement of the percentage of accounts that cancel or choose not to renew their subscriptions.
 
 OBJECTIVE
-This project aims to clean, wrangle, and visualize data to help a hypothetic telecom client understand their customers and employees better.
+This project aims to clean, wrangle, and visualize data to help a hypothetical telecom company "Phone Now" understand its customers and employees better.
 This part of the project was to create a dashboard using the defined KPIs to reflect customer demographics and insights.
 
 SITUATION
