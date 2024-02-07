@@ -2,7 +2,7 @@
 
 [Customer Retention.pdf](https://github.com/Siri-space/Customer_Retention_Analysis/files/14200057/Customer.Retention.pdf)
 
-
+![CR1](https://github.com/Siri-space/Customer_Retention_Analysis/assets/153458968/19d302c7-61c3-4fb8-ae92-4cf1a006b1c0)
 
 
 
