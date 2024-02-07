@@ -1,5 +1,22 @@
 # Customer_Retention_and _Churn_analysis
 
+[Customer Retention.pdf](https://github.com/Siri-space/Customer_Retention_Analysis/files/14200057/Customer.Retention.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 KEYWORDS
 
 Customer retention refers to the rate at which customers stay with a business in a given period.
