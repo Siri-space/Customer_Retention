@@ -4,15 +4,7 @@
 
 ![CR1](https://github.com/Siri-space/Customer_Retention_Analysis/assets/153458968/19d302c7-61c3-4fb8-ae92-4cf1a006b1c0)
 
-
-
-
-
-
-
-
-
-
+![CR2](https://github.com/Siri-space/Customer_Retention_Analysis/assets/153458968/bec2f841-9dca-4820-8a35-471b4a8325e3)
 
 
 KEYWORDS
