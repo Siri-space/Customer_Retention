@@ -3,7 +3,7 @@
 [Customer Retention.pdf](https://github.com/Siri-space/Customer_Retention_Analysis/files/14200057/Customer.Retention.pdf)
 
 
-
+[CR1.docx](https://github.com/Siri-space/Customer_Retention_Analysis/files/14200079/CR1.docx)
 
 
 
